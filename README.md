@@ -1,4 +1,4 @@
-<img align="center" alt="Universe" width="400" src="https://cdn.pixabay.com/animation/2022/11/16/14/56/14-56-49-778_512.gif">
+<img align="right" alt="Universe" width="400" src="https://cdn.pixabay.com/animation/2022/11/16/14/56/14-56-49-778_512.gif">
 
 # 💫 About Me:
 📚 I'm currently studying computer science at Tec de Monterrey.<br>🎂 My birthdate is on May 29nth, don't forget to celebrate with me!<br>🤖 I love  to imagine the possibilities of AI.<br>🐶 I prefer dogs (sorry for that cat-lovers).<br>👀 I'm curious and love doing troubleshooting.<br>👷‍♂️  I'm a helmetless engineer 🤣<br>🎾 I practice tennis, let's have a match :D<br>🎹 Playing piano is one of my hobbies.<br>🍨 Ice cream is delicious 😋
