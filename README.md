@@ -1,6 +1,7 @@
-<img align="right" alt="Universe" width="400" src="https://cdn.pixabay.com/animation/2022/11/16/14/56/14-56-49-778_512.gif">
+[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/54b6c068097599.5b50bca476b9b.gif)](https://Roy-maker.io)
 
 # 💫 About Me:
+<img align="right" alt="Light ball :D" width="200" src="https://i.pinimg.com/originals/a9/5e/b1/a95eb1fc438f4d6cabb3df84da50b774.gif">
 📚 I'm currently studying computer science at Tec de Monterrey.<br>🎂 My birthdate is on May 29nth, don't forget to celebrate with me!<br>🤖 I love  to imagine the possibilities of AI.<br>🐶 I prefer dogs (sorry for that cat-lovers).<br>👀 I'm curious and love doing troubleshooting.<br>👷‍♂️  I'm a helmetless engineer 🤣<br>🎾 I practice tennis, let's have a match :D<br>🎹 Playing piano is one of my hobbies.<br>🍨 Ice cream is delicious 😋
 
 
